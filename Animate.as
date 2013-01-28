@@ -1,4 +1,8 @@
 package com.codeandvisual.ext {
+	//
+	//-------------------------------------------------------------------
+	// Requires the Tweener package for AS3: http://code.google.com/p/tweener/
+	//-------------------------------------------------------------------
 	import caurina.transitions.Tweener;
 	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;
