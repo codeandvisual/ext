@@ -1,4 +1,4 @@
 ext
 ===
 
-Static Classes to Extend AS3  making making common tasks quicker to achieve.
+Static Classes to Extend AS3  making common tasks quicker to achieve.
